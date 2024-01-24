@@ -4,12 +4,12 @@ import { GoogleAuthProvider, getAuth } from 'firebase/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAZelX7J6TsB7d5K_XTiXExylA0ZSNgyiQ",
-  authDomain: "bellevue-technical-workshop.firebaseapp.com",
-  projectId: "bellevue-technical-workshop",
-  storageBucket: "bellevue-technical-workshop.appspot.com",
-  messagingSenderId: "76710554906",
-  appId: "1:76710554906:web:84ce5546bb1af443a610a3"
+  apiKey: "ADD YOUR STUFF HERE",
+  authDomain: "IT WILL LOOK LIKE THIS",
+  projectId: "KINDA",
+  storageBucket: "BUT DIFFERENT",
+  messagingSenderId: "REACH OUT TO US",
+  appId: "WITH ANY QUESTIONS"
 };
 
 // Initialize Firebase
